@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shannon-paton
 - 👀 I’m interested in web development & design
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me https://www.linkedin.com/in/shannon-paton/
